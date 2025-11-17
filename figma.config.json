@@ -1,0 +1,10 @@
+{
+  "codeConnect": [
+    {
+      "file": "src/**/*.figma.tsx"
+    }
+  ],
+  "documentId": "qpecnSQV201YPayOajk76e",
+  "writeScopes": ["file_content:write"]
+}
+

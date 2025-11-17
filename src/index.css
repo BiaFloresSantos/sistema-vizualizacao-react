@@ -1,0 +1,16 @@
+.blablabla {
+  border-color: rgb(81, 150, 12);
+  padding: 4px 2px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.blablabla:hover {
+  background-color: rgba(224, 41, 41, 0.6);
+  cursor: col-resize;
+
+
+}
+
+.blablabla:focus {
+  background-color: rgb(45, 0, 128);
+}

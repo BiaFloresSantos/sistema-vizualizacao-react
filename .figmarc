@@ -1,0 +1,7 @@
+{
+  "codeConnect": [
+    {
+      "file": "src/**/*.figma.tsx"
+    }
+  ]
+}
