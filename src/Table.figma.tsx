@@ -13,6 +13,8 @@ const sampleData: Pessoa[] = [
   { key: 8, code: '678', nome: 'Pedro', sexo: 'Masculino', data: '25/12/2024' },
 ]
 
+// GitHub: https://github.com/BiaFloresSantos/sistema-vizualizacao-react
+// Componente React com Figma Code Connect
 figma.connect(
   Table,
   'https://www.figma.com/design/qpecnSQV201YPayOajk76e/KENOJI?node-id=287:26',
